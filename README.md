@@ -4,13 +4,13 @@
 This project recreates a **Mark Rothko-style abstract painting** using only HTML and CSS — no images, no JavaScript.
 
 ## 📂 Project Structure
-
+```
 /project-directory
 ├── index.html       # Main HTML file with painting structure
 ├── styles.css       # CSS for layout and paint effects
 └── images/
-    └── preview.png  # Screenshot of the final output
-
+    └── preview.png  # Screenshot of the final output```
+```
 ## 🖼️ Description
 
 The painting is composed of a bordered `.frame` that contains a `.canvas`, which holds three abstract color fields (`.one`, `.two`, and `.three`). These rectangles simulate Rothko’s signature blurred, emotional, and color-rich artworks.
