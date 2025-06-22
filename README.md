@@ -6,10 +6,11 @@ This project recreates a **Mark Rothko-style abstract painting** using only HTML
 ## 📂 Project Structure
 ```
 /project-directory
-├── index.html       # Main HTML file with painting structure
-├── styles.css       # CSS for layout and paint effects
 └── images/
     └── preview.png  # Screenshot of the final output```
+├── index.html       # Main HTML file with painting structure
+├── README.md       # Readme
+├── styles.css       # CSS for layout and paint effects
 ```
 ## 🖼️ Description
 
